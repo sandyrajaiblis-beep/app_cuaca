@@ -84,3 +84,4 @@ cityInput.addEventListener('keyup', (event) => {
         }
     }
 });
+
